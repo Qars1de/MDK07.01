@@ -1,0 +1,17 @@
+C:\Users\Anton\Desktop\MDK\MDK\bin\Debug\MDK.exe.config
+C:\Users\Anton\Desktop\MDK\MDK\bin\Debug\MDK.exe
+C:\Users\Anton\Desktop\MDK\MDK\bin\Debug\MDK.pdb
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\MDK.csproj.AssemblyReference.cache
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\Forms\Form.g.cs
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\MainWindow.g.cs
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\App.g.cs
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\MDK_MarkupCompile.cache
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\MDK_MarkupCompile.lref
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\Forms\Form.baml
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\MainWindow.baml
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\MDK.g.resources
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\MDK.Properties.Resources.resources
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\MDK.csproj.GenerateResource.cache
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\MDK.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\MDK.exe
+C:\Users\Anton\Desktop\MDK\MDK\obj\Debug\MDK.pdb
