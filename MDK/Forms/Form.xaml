@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="Form" Height="450" Width="800">
     <Grid>
-        
+        <Button Width="100" Height="50">
+            <Button Height="40" Width="50" Background="Red">
+                <Button Background="Yellow" Width="25" Height="10" />
+            </Button>
+        </Button>
     </Grid>
 </Window>
